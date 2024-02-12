@@ -1,4 +1,4 @@
-# Node public repo Hello World subscribe to my channel , This is the testing environment
+# Node public repo Hello World subscribe to my channel , This is the testing
 
 Simple node.js app that servers "A Monk in Cloud"
 
